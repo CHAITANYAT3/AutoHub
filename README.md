@@ -56,7 +56,7 @@ flutter run
 | Feature | Details |
 |---|---|
 | Onboarding | 3-slide animated intro |
-| Auth | Google Sign-In ✅, Phone OTP, Email/Password |
+| Auth | Google Sign-In ✅,  Email/Password |
 | Browse | FOR SALE + FOR RENT tabs, search, filter, sort |
 | Vehicle Detail | Image gallery, specs, features, EMI calc, reviews |
 | Rental Booking | 3-step wizard, **real-time conflict detection**, UPI payment |
